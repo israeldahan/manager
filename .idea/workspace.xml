@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a135c7-9276-416e-a170-8c21088e716b" name="Default Changelist" comment="" />
+    <list default="true" id="d5a135c7-9276-416e-a170-8c21088e716b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userSchema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/core/db/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/core/db/connection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/core/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/core/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/bl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/bl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/bson/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/bson/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/core-util-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/denque/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/denque/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/memory-pager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/memory-pager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/mongodb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/mongodb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/process-nextick-args/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/process-nextick-args/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/require_optional/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/require_optional/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/resolve-from/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/saslprep/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/saslprep/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/sparse-bitfield/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/sparse-bitfield/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/util-deprecate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/util-deprecate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:409c3f937574b61a7cf3b2d5c2fb5ced77d942dee48d9f896fc92b74c7f599a1" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="bash" />
+      <option name="imageId" value="sha256:aa22d67221a0bf201902cac68a8a9d84e0dd71b0be4564b921c992ef70406aaa" />
+    </ExecCommand>
+    <ExecCommand>
+      <option name="command" value="sh" />
+      <option name="imageId" value="sha256:4495f296c63b974b9177b916f129df85ddcb027a1d998397258ce10b200e56c0" />
+    </ExecCommand>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="galaxy" />
+    <option name="namespace" value="galaxy" />
   </component>
   <component name="ProjectId" id="1gCA9E1SwT0jIYfcfjq3JwwWsBj" />
   <component name="ProjectViewState">
@@ -15,7 +65,41 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manager-server/index.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" node-parameters="--inspect" path-to-js-file="manager-server/index.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension" Node.JS.Docker.Generate.Image="true" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" url="http://localhost:3000" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.db: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="db" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml.db: Compose Deployment" />
+      <item itemvalue="Node.js.index.js" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,10 +110,153 @@
       <option name="presentableId" value="Default" />
       <updated>1597608046556</updated>
       <workItem from="1597608047583" duration="1539000" />
+      <workItem from="1597641425521" duration="7594000" />
+      <workItem from="1597816495891" duration="7375000" />
+      <workItem from="1598181073365" duration="16573000" />
+      <workItem from="1598209867094" duration="2899000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="424" width="467" height="432" key="#Web_Browsers" timestamp="1598202219554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="754" y="424" width="467" height="432" key="#Web_Browsers/67.27.1853.1053@67.27.1853.1053" timestamp="1598202219554" />
+    <state x="453" y="104" width="1084" height="976" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598213766675">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="453" y="104" width="1084" height="976" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598213766675" />
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598201602230">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="260" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598201602230" />
+    <state x="972" y="276" key="#xdebugger.evaluate" timestamp="1598214862402">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="972" y="276" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1598214862402" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598202145355">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1598202145355" />
+    <state width="1830" height="431" key="GridCell.Tab.0.bottom" timestamp="1598215638949">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638949" />
+    <state width="1830" height="431" key="GridCell.Tab.0.center" timestamp="1598215638949">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638949" />
+    <state width="1830" height="431" key="GridCell.Tab.0.left" timestamp="1598215638948">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638948" />
+    <state width="1830" height="431" key="GridCell.Tab.0.right" timestamp="1598215638949">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638949" />
+    <state width="1830" height="431" key="GridCell.Tab.1.bottom" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.1.center" timestamp="1598215638949">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638949" />
+    <state width="1830" height="431" key="GridCell.Tab.1.left" timestamp="1598215638949">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638949" />
+    <state width="1830" height="431" key="GridCell.Tab.1.right" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.2.bottom" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.2.center" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.2.left" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.2.right" timestamp="1598215638950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638950" />
+    <state width="1830" height="431" key="GridCell.Tab.3.bottom" timestamp="1598215638938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.3.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638938" />
+    <state width="1830" height="431" key="GridCell.Tab.3.center" timestamp="1598215638938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.3.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638938" />
+    <state width="1830" height="431" key="GridCell.Tab.3.left" timestamp="1598215638937">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.3.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638937" />
+    <state width="1830" height="431" key="GridCell.Tab.3.right" timestamp="1598215638938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="431" key="GridCell.Tab.3.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598215638938" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1598214512208">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1598214512208" />
+    <state x="713" y="451" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog" timestamp="1598202233413">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="713" y="451" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598202233413" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/core/users.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/index.js</url>
+          <line>31</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/index.js</url>
+          <line>33</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userRouter.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
