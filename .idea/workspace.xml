@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a135c7-9276-416e-a170-8c21088e716b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manager-server/core/models/user/userSchema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/core/db/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/core/db/connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/core/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/core/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-server/core/users.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/manager-server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/bl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/bl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/body-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/bson/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/bson/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/core-util-is/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/denque/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/denque/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/isarray/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/memory-pager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/memory-pager/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/mongodb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/mongodb/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/process-nextick-args/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/process-nextick-args/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/readable-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/require_optional/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/require_optional/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/resolve-from/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/saslprep/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/saslprep/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/semver/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/sparse-bitfield/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/sparse-bitfield/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/string_decoder/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/node_modules/util-deprecate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manager-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manager-server/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +90,7 @@
       <workItem from="1597816495891" duration="7375000" />
       <workItem from="1598181073365" duration="16573000" />
       <workItem from="1598209867094" duration="2899000" />
+      <workItem from="1598246464398" duration="725000" />
     </task>
     <servers />
   </component>
@@ -213,50 +190,5 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="713" y="451" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598202233413" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/core/users.js</url>
-          <line>2</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
-          <line>5</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
-          <line>6</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userModel.js</url>
-          <line>4</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/index.js</url>
-          <line>31</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/index.js</url>
-          <line>33</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/manager-server/core/models/user/userRouter.js</url>
-          <line>3</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
